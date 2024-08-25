@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class Main_66050019 {
     public static void main(String[] args) {
         System.out.println("------Gaussian Program------");
         System.out.println("> N is quantity of equation");
